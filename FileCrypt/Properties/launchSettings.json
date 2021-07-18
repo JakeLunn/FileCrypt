@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileCrypt": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
